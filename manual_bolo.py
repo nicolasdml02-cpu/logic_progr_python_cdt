@@ -16,5 +16,5 @@ def fazer_bolo(sabor, usar_cobertura=True):
 bolo_da_tarde = fazer_bolo("chocolate", usar_cobertura=True)
 print(f"Resultado: {bolo_da_tarde}")
 
-bolo_da_vovo = fazer_bolo("fubá", usar_cobertura=False)
-print(f"Resultado: {bolo_da_vovo}")
+bolo_da_manha = fazer_bolo("morango", usar_cobertura=False)
+print(f"Resultado: {bolo_da_manha}")
