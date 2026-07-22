@@ -1,8 +1,18 @@
-Nicolas santana;19 anos;05795-010;980853;nicolasdml02@gmail.com;
-Gustavo gonçalves;18 anos; 04567-000;962127;gustavogoncalves022@gmail.com
-Leandro do carmo;15 anos;05792-000;994523;LeandroCarmoXav@gmail.com
-Maria Eduarda Verissimo;15 anos;05957-411;930172;mariaeverissimo24@gmail.com
-Beatriz vitoria;30 anos;058193-000;978786;beavitoria@gmail.com
+Ivan Silva;40 anos;02899-000;947541;ivanpaulino@mail.com
+Beatriz Vitoria;30 anos;057193-000;978786;beavitoria@mail.com
+Eric Renan;17 anos;089880-100;98799;ericrenan@gmail.com
+Miguel Mendes;17 anos;05861-260;976767;migueldiasmendes9@gmail.com
+Carlos Pereira; 15 anos; 09876-000; 948867; carlospereira@gmail.com
+Herique Augusto;17 anos;05857-030;96105;henriqueaugusto@mail.com
+Otavio Sebastiao;14 anos;09731-000;976431;otaviosebastiao@mail.com
+Yasmin Santos;17 anos;09876-000;971123;yasminssantos@gmail.com
+Livia Giffony;14 anos;09162-0000;989123;liviagiffony@gmail.com
+Sophia Neris;14 anos;05790410-000;998922;sophiasilva@mail.com
+Anna Clara;14 anos;05799910-000;91478;annaclarasilva@mail.com
+Nicole Mendes;14 anos;06357-000;897456;nicolemendea099@gmail.com
+Nicollas Tegas;15 anos;048394-909;931841;nicollastegas@mail.com
+Joao Vitor;15 anos;0579110; joaovitoralvesdecarvalho6@gmail.com
+Luane Santana;17 anos;09752-000;976352;luanesantana@mail.com
 Ivan Silva;40 anos;02899-000;947541;ivanpaulino@mail.com
 Beatriz Vitoria;30 anos;057193-000;978786;beavitoria@mail.com
 Gabriel Aquino;15 anos;09876-000;995899;kaiserhzx@gmail.com
@@ -38,3 +48,18 @@ Sarah Santos, 15 anos, 09658-000, sarahsantos@gmail.com
 Matheus Santos; 15 anos; 12300-000; Matheussantos@mail.com
 Igor Freitas; 15 anos;08965-876;igorgomes@gmail.com
 Beatriz Araujo; 18 anos; 05762-000; beatrizsouzaaraujo173@gmail.com
+Ivan Silva;40 anos;02899-000;947541;ivanpaulino@mail.com
+Beatriz Vitoria;30 anos;057193-000;978786;beavitoria@mail.com
+Eric Renan;17 anos;089880-100;98799;ericrenan@gmail.com
+Miguel Mendes;17 anos;05861-260;976767;migueldiasmendes9@gmail.com
+Carlos Pereira; 15 anos; 09876-000; 948867; carlospereira@gmail.com
+Herique Augusto;17 anos;05857-030;96105;henriqueaugusto@mail.com
+Otavio Sebastiao;14 anos;09731-000;976431;otaviosebastiao@mail.com
+Yasmin Santos;17 anos;09876-000;971123;yasminssantos@gmail.com
+Livia Giffony;14 anos;09162-0000;989123;liviagiffony@gmail.com
+Sophia Neris;14 anos;05790410-000;998922;sophiasilva@mail.com
+Anna Clara;14 anos;05799910-000;91478;annaclarasilva@mail.com
+Nicole Mendes;14 anos;06357-000;897456;nicolemendea099@gmail.com
+Nicollas Tegas;15 anos;048394-909;931841;nicollastegas@mail.com
+Joao Vitor;15 anos;0579110; joaovitoralvesdecarvalho6@gmail.com
+Luane Santana;17 anos;09752-000;976352;luanesantana@mail.com
